@@ -1,6 +1,6 @@
 package main
 
-import "krait/cmd"
+import "github.com/adityakakarla/krait/cmd"
 
 func main() {
 	cmd.Execute()

@@ -1,4 +1,4 @@
-module krait
+module github.com/adityakakarla/krait
 
 go 1.23.1
 
